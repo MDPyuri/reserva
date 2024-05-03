@@ -20,4 +20,4 @@ cors
 
 #### Banco de Dados: MongoDB
 
-Autor: **yuri Matsumoto do Prado**
+Autor: **Yuri Matsumoto do Prado**
