@@ -23,4 +23,4 @@ routes.get('/reserves', ReserveController.index);
 routes.delete('/reserves/cancel', ReserveController.destroy);
 
 
-export default Router
+export default routes;
