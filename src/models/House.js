@@ -11,7 +11,7 @@ const HouseSchema = new Schema({
     ref: 'User'
   }
 }, {
-  toJSON: {
+  ToJSON: {
     virtuals: true
   }
 })
